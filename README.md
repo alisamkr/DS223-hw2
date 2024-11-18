@@ -20,3 +20,4 @@ Based on the outputs, Epsilon Greedy outperformed Thompson Sampling in terms of 
 
  Variance can be used for the reward to see how much it varies across multiple experiments
 
+Suggestion for myself: download all the files from the e-learning and check them before doing the entire homework based on the one .pdf and finding out there were files with all the necessary information all along that were left unused until 1 minute before the deadline :( 
